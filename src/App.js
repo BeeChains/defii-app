@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          The "I" of All-Conquering Spirit, the Omniscient, Omnipotent and Omnipresent Spark Within us is a drop of burning desire, rippling into a wave as The Great Awakening.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://shapereality.innerinetcompany.hns.to/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Inner I Net Company/
         </a>
       </header>
     </div>
